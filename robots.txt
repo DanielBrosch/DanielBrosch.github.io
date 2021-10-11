@@ -1,4 +1,4 @@
-Sitemap: https://danielbrosch.github.io/sitemap.xml
+Sitemap: danielbrosch.com/sitemap.xml
 
 User-agent: *
 Disallow:

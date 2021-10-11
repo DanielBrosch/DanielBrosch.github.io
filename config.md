@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Daniel Brosch"
 website_descr = "Daniel Brosch's personal website"
-website_url   = "https://danielbrosch.github.io/"
+website_url   = "danielbrosch.com"
 +++
 
 <!--

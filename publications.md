@@ -22,6 +22,8 @@ date = Date(2021, 9, 21)
 * **Master's Thesis**: *Semidefinite Bounds for Unequal Error Protection Codes*. Under supervision of [Frank Vallentin](https://www.mi.uni-koeln.de/opt/frank-vallentin/).\\[PDF](/assets/pdfs/MastersThesis.pdf).
 
 # Talks
+## Planned
+* [ICCOPT 2022](https://iccopt2022.lehigh.edu/), Lehigh University, July 2022. Tentative title: **Extremal combinatorics in Julia using FlagSOS.jl**.
 ## Past
 * [SIAM AG21](https://www.siam.org/conferences/cm/conference/ag21), August 2021, and 
 * [SIAM OP21](https://www.siam.org/conferences/cm/conference/op21), July 2021: **More efficient and flexible Flag-Algebras coming from polynomial optimization**.\\[slides](/assets/slides/FlagTalkAG21.pdf).
@@ -34,3 +36,7 @@ date = Date(2021, 9, 21)
 ---
 
 A more detailed CV is available [here](/assets/pdfs/CV.pdf).
+
+---
+
+**Co-authors:** [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/), [Monique Laurent](https://homepages.cwi.nl/~monique/), [Sven Polak](https://sites.google.com/site/svenpolak/), [Andries Steenkamp](https://themathmerc.com/).

@@ -7,11 +7,11 @@ date = Date(2021, 9, 21)
 
 # Publications
 ## Published
-* \biblabel{toric2020}{Brosch et al. (2020)} **Daniel Brosch** and **Etienne de Klerk**, [Minimum energy configurations on a toric lattice as a quadratic assignment problem](https://doi.org/10.1016/j.disopt.2020.100612), Discrete Optimization 2020.\\*[Discrete Optimization](https://doi.org/10.1016/j.disopt.2020.100612), [arXiv (extended results)](https://arxiv.org/abs/1908.00872)*.
+* \biblabel{Jordan2021}{Brosch et al. (2021)} **Daniel Brosch** and **Etienne de Klerk**, [Jordan symmetry reduction for conic optimization over the doubly nonnegative cone: theory and software](https://doi.org/10.1080/10556788.2021.2022146), Optimization Methods and Software 2021.\\*[Optimization Methods and Software](https://doi.org/10.1080/10556788.2021.2022146), [arXiv](https://arxiv.org/abs/2001.11348)*.
 * \biblabel{queue2021}{Brosch et al. (2021)} **Daniel Brosch**, **Monique Laurent** and **Andries Steenkamp**, [Optimizing Hypergraph-Based Polynomials Modeling Job-Occupancy in Queuing with Redundancy Scheduling](https://doi.org/10.1137/20M1369592), SIAM Journal on Optimization 2021.\\*[SIAM Journal on Optimization](https://doi.org/10.1137/20M1369592), [arXiv](https://arxiv.org/abs/2009.04510)*.
+* \biblabel{toric2020}{Brosch et al. (2020)} **Daniel Brosch** and **Etienne de Klerk**, [Minimum energy configurations on a toric lattice as a quadratic assignment problem](https://doi.org/10.1016/j.disopt.2020.100612), Discrete Optimization 2020.\\*[Discrete Optimization](https://doi.org/10.1016/j.disopt.2020.100612), [arXiv (extended results)](https://arxiv.org/abs/1908.00872)*.
 
-## Preprints
-* \biblabel{Jordan2021}{Brosch et al. (2021)} **Daniel Brosch** and **Etienne de Klerk**, [Jordan symmetry reduction for conic optimization over the doubly nonnegative cone: theory and software](https://arxiv.org/abs/2001.11348), arXiv preprint. (Accepted by Optimization Methods and Software, awaiting publication.)\\*[arXiv](https://arxiv.org/abs/2001.11348)*.
+<!-- ## Preprints -->
 
 ## Work in progress
 * **PhD-thesis**: *Symmetry reduction in convex optimization*. Under supervision of [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/) and [Monique Laurent](https://homepages.cwi.nl/~monique/).

@@ -1,7 +1,7 @@
 +++
 title = "Publications"
 hascode = false
-date = Date(2021, 9, 21)
+date = Date(2022, 4, 19)
 +++
 @def tags = ["publications", "preprints"]
 
@@ -25,6 +25,9 @@ date = Date(2021, 9, 21)
 ## Planned
 * [ICCOPT 2022](https://iccopt2022.lehigh.edu/), Lehigh University, July 2022. Tentative title: **Extremal combinatorics in Julia using FlagSOS.jl**.
 ## Past
+* [Workshop on Conic Linear Optimization for Computer-Assisted Proofs](https://www.mfo.de/occasion/2215b/www_view), Oberwolfach, 12.4.2022, **The Symmetries of Flag-Algebras**.\\[slides](https://slides.danielbrosch.com/FlagSymmetriesShort/).
+* [Discrete Math Seminar](https://www.math.umass.edu/seminars/discrete-math-seminar), University of Massachusetts Amherst, 1.4.2022, **Symmetry reduced Flag-hierarchies**.\\[slides](https://slides.danielbrosch.com/FlagSymmetries/).
+* *Polynomial optimization reading group (CWI, Amsterdam)*, 23.3.2022, **Symmetry reduced Flag-hierarchies.**
 * [SIAM AG21](https://www.siam.org/conferences/cm/conference/ag21), August 2021, and 
 * [SIAM OP21](https://www.siam.org/conferences/cm/conference/op21), July 2021: **More efficient and flexible Flag-Algebras coming from polynomial optimization**.\\[slides](/assets/slides/FlagTalkAG21.pdf).
 * [Virtual OR Seminar](http://www.tilburguniversity.edu/about/schools/economics-and-management/news/events/seminars/or.htm), Tilburg University, February 2021: **More efficient and flexible Flag-Algebras**.

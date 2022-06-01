@@ -16,7 +16,7 @@ I study conic optimization for highly symmetric problems, investigating computat
 * Energy minimization.
 
 ## News
-Check out my recent slides from Oberwolfach on the [Symmetries of Flag-Algebras](https://slides.danielbrosch.com/FlagSymmetriesShort/).
+Check out my recent slides from Oberwolfach on the [Symmetries of Flag-Algebras](https://slides.danielbrosch.com/FlagSymmetries/May24/).
 
 ## Contact
 My office address is:\\

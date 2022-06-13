@@ -6,6 +6,9 @@ date = Date(2022, 4, 19)
 @def tags = ["publications", "preprints"]
 
 # Publications
+## Preprints
+* **Daniel Brosch** and **Sven Polak**, [New lower bounds on crossing numbers of K(m,n) from permutation modules and semidefinite programming](https://arxiv.org/abs/2206.02755), arXiv, 2022.
+
 ## Published
 * \biblabel{Jordan2021}{Brosch et al. (2021)} **Daniel Brosch** and **Etienne de Klerk**, [Jordan symmetry reduction for conic optimization over the doubly nonnegative cone: theory and software](https://doi.org/10.1080/10556788.2021.2022146), Optimization Methods and Software 2021.\\*[Optimization Methods and Software](https://doi.org/10.1080/10556788.2021.2022146), [arXiv](https://arxiv.org/abs/2001.11348)*.
 * \biblabel{queue2021}{Brosch et al. (2021)} **Daniel Brosch**, **Monique Laurent** and **Andries Steenkamp**, [Optimizing Hypergraph-Based Polynomials Modeling Job-Occupancy in Queuing with Redundancy Scheduling](https://doi.org/10.1137/20M1369592), SIAM Journal on Optimization 2021.\\*[SIAM Journal on Optimization](https://doi.org/10.1137/20M1369592), [arXiv](https://arxiv.org/abs/2009.04510)*.
@@ -16,7 +19,7 @@ date = Date(2022, 4, 19)
 ## Work in progress
 * **PhD-thesis**: *Symmetry reduction in convex optimization*. Under supervision of [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/) and [Monique Laurent](https://homepages.cwi.nl/~monique/).
 * **Daniel Brosch**, *More efficient and flexible Flag-SOS hierarchies*.
-* **Daniel Brosch** and **Sven Polak**, *Improved bounds for crossing numbers based on semidefinite programming*.
+
 
 ## Others
 * **Master's Thesis**: *Semidefinite Bounds for Unequal Error Protection Codes*. Under supervision of [Frank Vallentin](https://www.mi.uni-koeln.de/opt/frank-vallentin/).\\[PDF](/assets/pdfs/MastersThesis.pdf).

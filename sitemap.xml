@@ -32,6 +32,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>Zulip/index/</loc>
+    <lastmod>2022-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>indexLandingPage/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>monthly</changefreq>

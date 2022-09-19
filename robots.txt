@@ -1,4 +1,4 @@
-Sitemap: sitemap.xml
+Sitemap: danielbrosch.com/sitemap.xml
 
 User-agent: *
 Disallow:

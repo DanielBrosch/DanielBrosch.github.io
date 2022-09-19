@@ -17,7 +17,7 @@ date = Date(2022, 4, 19)
 <!-- ## Preprints -->
 
 ## Work in progress
-* **PhD-thesis**: *Symmetry reduction in convex optimization*. Under supervision of [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/) and [Monique Laurent](https://homepages.cwi.nl/~monique/).
+* **PhD-Thesis**: *Symmetry Reduction in Convex Optimization with Applications in Combinatorics*. Under supervision of [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/) and [Monique Laurent](https://homepages.cwi.nl/~monique/).
 * **Daniel Brosch**, *More efficient and flexible Flag-SOS hierarchies*.
 
 
@@ -25,18 +25,18 @@ date = Date(2022, 4, 19)
 * **Master's Thesis**: *Semidefinite Bounds for Unequal Error Protection Codes*. Under supervision of [Frank Vallentin](https://www.mi.uni-koeln.de/opt/frank-vallentin/).\\[PDF](/assets/pdfs/MastersThesis.pdf).
 
 # Talks
-## Planned
-* [ICCOPT 2022](https://iccopt2022.lehigh.edu/), Lehigh University, July 2022. Tentative title: **Extremal combinatorics in Julia using FlagSOS.jl**.
+<!-- ## Planned -->
 ## Past
-* [Workshop on Conic Linear Optimization for Computer-Assisted Proofs](https://www.mfo.de/occasion/2215b/www_view), Oberwolfach, 12.4.2022, **The Symmetries of Flag-Algebras**.\\[slides](https://slides.danielbrosch.com/FlagSymmetriesShort/).
-* [Discrete Math Seminar](https://www.math.umass.edu/seminars/discrete-math-seminar), University of Massachusetts Amherst, 1.4.2022, **Symmetry reduced Flag-hierarchies**.\\[slides](https://slides.danielbrosch.com/FlagSymmetries/).
-* *Polynomial optimization reading group (CWI, Amsterdam)*, 23.3.2022, **Symmetry reduced Flag-hierarchies.**
+* [ICCOPT 2022](https://iccopt2022.lehigh.edu/), Lehigh University, July 2022, **Moebius-Transformation Based Symmetry Reduction for Optimization in Binary Variables**.\\[slides](https://slides.danielbrosch.com/FlagSymmetries/July26/).
+* [Workshop on Conic Linear Optimization for Computer-Assisted Proofs](https://www.mfo.de/occasion/2215b/www_view), Oberwolfach, 12.4.2022, **The Symmetries of Flag-Algebras**.\\[slides](https://slides.danielbrosch.com/FlagSymmetries/May24/).
+* [Discrete Math Seminar](https://www.math.umass.edu/seminars/discrete-math-seminar), University of Massachusetts Amherst, 1.4.2022, **Symmetry reduced Flag-hierarchies**.\\[slides](https://slides.danielbrosch.com/FlagSymmetries/March22).
+* *Polynomial optimization reading group (CWI, Amsterdam)*, March 2022, **Symmetry reduced Flag-hierarchies.**
 * [SIAM AG21](https://www.siam.org/conferences/cm/conference/ag21), August 2021, and 
 * [SIAM OP21](https://www.siam.org/conferences/cm/conference/op21), July 2021: **More efficient and flexible Flag-Algebras coming from polynomial optimization**.\\[slides](/assets/slides/FlagTalkAG21.pdf).
 * [Virtual OR Seminar](http://www.tilburguniversity.edu/about/schools/economics-and-management/news/events/seminars/or.htm), Tilburg University, February 2021: **More efficient and flexible Flag-Algebras**.
 * [Oberseminar "Reelle Geometrie und Algebra"](https://www.mathematik.uni-konstanz.de/rag/oberseminare/aktuelle-termine/), Uni Konstanz, January 2021: **More efficient and flexible Flag-Algebras**.
 * *Shared seminar CWI reading group*/[Cologne Oberseminar](https://www.mi.uni-koeln.de/opt/veranstaltungen/oberseminar/), January 2021: **More efficient and flexible Flag-Algebras**.
-* *Polynomial optimization reading group (CWI, Amsterdam)*, 26.2.2020 and 4.3.2020.: **A two-part introduction to symmetry reduction for SDPs**.
+* *Polynomial optimization reading group (CWI, Amsterdam)*, February and March 2020.: **A two-part introduction to symmetry reduction for SDPs**.
 * [6th International Conference on Continuous Optimization (ICCOPT)](https://iccopt2019.berlin/), August 2019: **Minimum energy configurations on a toric lattice as a quadratic assignment problem**.\\[slides](/assets/slides/EnergyTalk.pdf).
 
 ---

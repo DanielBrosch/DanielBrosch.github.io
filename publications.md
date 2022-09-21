@@ -5,6 +5,11 @@ date = Date(2022, 4, 19)
 +++
 @def tags = ["publications", "preprints"]
 
+# PhD-Thesis
+* *Symmetry Reduction in Convex Optimization with Applications in Combinatorics*. Under supervision of [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/) and [Monique Laurent](https://homepages.cwi.nl/~monique/).\\[PDF](/assets/pdfs/Thesis.pdf).
+
+![](/assets/Cover.png)
+
 # Publications
 ## Preprints
 * **Daniel Brosch** and **Sven Polak**, [New lower bounds on crossing numbers of K(m,n) from permutation modules and semidefinite programming](https://arxiv.org/abs/2206.02755), arXiv, 2022.

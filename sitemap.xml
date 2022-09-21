@@ -38,7 +38,25 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>danielbrosch.com/Thesis/index/</loc>
+    <lastmod>2022-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>danielbrosch.com/zulip/index/</loc>
+    <lastmod>2022-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>danielbrosch.com/indexLandingPage/</loc>
+    <lastmod>2022-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>danielbrosch.com/thesis/index/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

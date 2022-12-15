@@ -6,7 +6,7 @@ date = Date(2021, 9, 21)
 @def tags = ["about", "cv"]
 
 # About me
-I am a PhD-candidate in my final year at Tilburg University, working on symmetric convex optimization problems. My supervisors are [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/) and [Monique Laurent](https://homepages.cwi.nl/~monique/). After obtaining my Masters degree in Mathematics at University of Cologne in 2018, I started my PhD the same year as part of the [MINOA project](https://minoa-itn.fau.de/).
+I am a Postdoc at the University of Klagenfurt, working on symmetric convex optimization problems. I obtained my PhD from Tilburg University in 2022 as part of the [MINOA project](https://minoa-itn.fau.de/), under supervision of [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/) and [Monique Laurent](https://homepages.cwi.nl/~monique/).
 
 
 ## Research interests
@@ -25,8 +25,8 @@ Check out my recent slides from Oberwolfach on the [Symmetries of Flag-Algebras]
 
 ## Contact
 My office address is:\\
-Warandelaan 2\\
-Koopmans Building\\
-Room K420\\
-5037 AB Tilburg\\
-The Netherlands\\
+Universitätsstraße 65-67\\
+Mathematisches Institut\\
+Room N.2.26\\
+9020 Klagenfurt am Wörthersee\\
+Austria\\

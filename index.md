@@ -6,7 +6,7 @@ date = Date(2021, 9, 21)
 @def tags = ["about", "cv"]
 
 # About me
-I am a Postdoc at the University of Klagenfurt, working on symmetric convex optimization problems. I obtained my PhD from Tilburg University in 2022 as part of the [MINOA project](https://minoa-itn.fau.de/), under supervision of [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/) and [Monique Laurent](https://homepages.cwi.nl/~monique/).
+I am a postdoc at the University of Klagenfurt, working on symmetric convex optimization problems. I obtained my PhD from Tilburg University in 2022 as part of the [MINOA project](https://minoa-itn.fau.de/), under supervision of [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/) and [Monique Laurent](https://homepages.cwi.nl/~monique/).
 
 
 ## Research interests

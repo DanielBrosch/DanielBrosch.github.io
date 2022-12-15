@@ -1,7 +1,7 @@
 +++
 title = "About me"
 hascode = false
-date = Date(2021, 9, 21)
+date = Date(2022, 12, 15)
 +++
 @def tags = ["about", "cv"]
 

@@ -21,9 +21,8 @@ date = Date(2022, 4, 19)
 
 <!-- ## Preprints -->
 
-## Work in progress
-* **PhD-Thesis**: *Symmetry Reduction in Convex Optimization with Applications in Combinatorics*. Under supervision of [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/) and [Monique Laurent](https://homepages.cwi.nl/~monique/).
-* **Daniel Brosch**, *More efficient and flexible Flag-SOS hierarchies*.
+<!-- ## Work in progress -->
+<!-- * **Daniel Brosch**, *More efficient and flexible Flag-SOS hierarchies*. -->
 
 
 ## Others
@@ -31,8 +30,14 @@ date = Date(2022, 4, 19)
 
 # Talks
 <!-- ## Planned -->
-## Past
-* [ICCOPT 2022](https://iccopt2022.lehigh.edu/), Lehigh University, July 2022, **Moebius-Transformation Based Symmetry Reduction for Optimization in Binary Variables**.\\[slides](https://slides.danielbrosch.com/FlagSymmetries/July26/).
+<!-- ## Past -->
+
+* [MAAG 2023](https://sites.google.com/view/maag-2023/home), Georgia Tech, April 2023, **The Flag Algebra of Rooted Binary Trees.**\\[slides](https://slides.danielbrosch.com/TreeFlags/#/).
+* [Georgia Tech Graph Theory & Combinatorics Seminar](https://abernshteyn3.math.gatech.edu/gt_gt/), Georgia Tech, April 2023, **New lower bounds on crossing numbers of $K_{m,n}$.**\\[slides](https://slides.danielbrosch.com/CrossingGeorgiaTech/#/).
+* [Semidefinite optimization approaches to classical and quantum combinatorial optimization](https://www.mi.uni-koeln.de/opt/block-seminar-semidefinite-optimization-approaches-to-classical-and-quantum-combinatorial-optimization/), Cologne University, February 2023, **SDPs for Extremal Combinatorics.**\\[slides](https://slides.danielbrosch.com/SDPsForExtremalCombinatorics/#/).
+* [Three days of computational methods for extremal discrete geometry](http://www.mi.uni-koeln.de/opt/three-days-of-computational-methods-for-extremal-discrete-geometry/), Cologne University, December 2022, **New lower bounds on crossing numbers of $K_{m,n}$.**\\[slides](https://slides.danielbrosch.com/Crossing/#/).
+* [University of Klagenfurt](https://www.aau.at/), October 2022, **Derivatives in Continuous Combinatorics.**\\[slides](https://slides.danielbrosch.com/CombDerivatives/).
+* [ICCOPT 2022](https://iccopt2022.lehigh.edu/), Lehigh University, July 2022, **Moebius-Transform Based Symmetry Reduction for Optimization in Binary Variables**.\\[slides](https://slides.danielbrosch.com/FlagSymmetries/July26/).
 * [Workshop on Conic Linear Optimization for Computer-Assisted Proofs](https://www.mfo.de/occasion/2215b/www_view), Oberwolfach, 12.4.2022, **The Symmetries of Flag-Algebras**.\\[slides](https://slides.danielbrosch.com/FlagSymmetries/May24/).
 * [Discrete Math Seminar](https://www.math.umass.edu/seminars/discrete-math-seminar), University of Massachusetts Amherst, 1.4.2022, **Symmetry reduced Flag-hierarchies**.\\[slides](https://slides.danielbrosch.com/FlagSymmetries/March22).
 * *Polynomial optimization reading group (CWI, Amsterdam)*, March 2022, **Symmetry reduced Flag-hierarchies.**

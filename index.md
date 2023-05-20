@@ -1,7 +1,7 @@
 +++
 title = "About me"
 hascode = false
-date = Date(2022, 12, 15)
+date = Date(2023, 5, 20)
 +++
 @def tags = ["about", "cv"]
 
@@ -10,7 +10,7 @@ I am a postdoc at the University of Klagenfurt, working on symmetric convex opti
 
 
 ## Research interests
-I study conic optimization for highly symmetric problems, investigating computational and analytical ways to exploit symmetries. In particular I am interested in
+I study conic optimization for highly symmetric problems, investigating computational and analytical ways to exploit symmetries. In particular, I am interested in
 * Semidefinite and polynomial optimization,
 * Flag algebras and
 * Energy minimization.
@@ -21,12 +21,12 @@ I study conic optimization for highly symmetric problems, investigating computat
 ![](/assets/Cover.png)
 
 \\\\
-Check out my recent slides from Oberwolfach on the [Symmetries of Flag-Algebras](https://slides.danielbrosch.com/FlagSymmetries/May24/).\\
+Check out my recent slides from [MAAG 2023](https://sites.google.com/view/maag-2023/home) on the [flag algebra of binary rooted trees](https://slides.danielbrosch.com/TreeFlags/).\\
 
 ## Contact
 My office address is:\\
 Universitätsstraße 65-67\\
-Mathematisches Institut\\
+Institut für Mathematik\\
 Room N.2.26\\
 9020 Klagenfurt am Wörthersee\\
 Austria\\

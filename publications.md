@@ -34,7 +34,7 @@ date = Date(2022, 4, 19)
 ## Past
 * [Europt 2023](http://europt.hu/), Budapest, August 2023, **The flag algebra of rooted binary trees.**\\[slides](https://slides.danielbrosch.com/TreeFlagsEuropt23)
 * [Oberwolfach workshop: Mixed-integer Nonlinear Optimization: A Hatchery for Modern Mathematics](https://www.mfo.de/occasion/2333/www_view), Oberwolfach, August 2023, **Is the set of trees convex?**\\[slides](https://slides.danielbrosch.com/Oberwolfach2333)
-* [SIAM AG23](https://www.siam.org/conferences/cm/conference/ag23), Eindhoven, June 2023, **Möbius Transform Based Bounds for Constant Weight Codes.**\\[slides](https://slides.danielbrosch.com/MoebiusCodes) 
+* [SIAM AG23](https://www.siam.org/conferences/cm/conference/ag23), Eindhoven, July 2023, **Möbius Transform Based Bounds for Constant Weight Codes.**\\[slides](https://slides.danielbrosch.com/MoebiusCodes) 
 * [SIAM OP23](https://www.siam.org/conferences/cm/conference/op23), Seattle, May-June 2023, **Flag Sums of Squares for Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_SiamOP23)
 * [MAAG 2023](https://sites.google.com/view/maag-2023/home), Georgia Tech, April 2023, **The Flag Algebra of Rooted Binary Trees.**\\[slides](https://slides.danielbrosch.com/TreeFlags/#/).
 * [Georgia Tech Graph Theory & Combinatorics Seminar](https://abernshteyn3.math.gatech.edu/gt_gt/), Georgia Tech, April 2023, **New lower bounds on crossing numbers of $K_{m,n}$.**\\[slides](https://slides.danielbrosch.com/CrossingGeorgiaTech/#/).

@@ -29,9 +29,13 @@ date = Date(2022, 4, 19)
 * **Master's Thesis**: *Semidefinite Bounds for Unequal Error Protection Codes*. Under supervision of [Frank Vallentin](https://www.mi.uni-koeln.de/opt/frank-vallentin/).\\[PDF](/assets/pdfs/MastersThesis.pdf).
 
 # Talks
-<!-- ## Planned -->
-<!-- ## Past -->
-
+## Planned
+* [ÖMG Tagung 2023](https://oemg-tagung-2023.at/)
+## Past
+* [Europt 2023](http://europt.hu/), Budapest, August 2023, **The flag algebra of rooted binary trees.**\\[slides](https://slides.danielbrosch.com/TreeFlagsEuropt23)
+* [Oberwolfach workshop: Mixed-integer Nonlinear Optimization: A Hatchery for Modern Mathematics](https://www.mfo.de/occasion/2333/www_view), Oberwolfach, August 2023, **Is the set of trees convex?**\\[slides](https://slides.danielbrosch.com/Oberwolfach2333)
+* [SIAM AG23](https://www.siam.org/conferences/cm/conference/ag23), Eindhoven, June 2023, **Möbius Transform Based Bounds for Constant Weight Codes.**\\[slides](https://slides.danielbrosch.com/MoebiusCodes) 
+* [SIAM OP23](https://www.siam.org/conferences/cm/conference/op23), Seattle, May-June 2023, **Flag Sums of Squares for Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_SiamOP23)
 * [MAAG 2023](https://sites.google.com/view/maag-2023/home), Georgia Tech, April 2023, **The Flag Algebra of Rooted Binary Trees.**\\[slides](https://slides.danielbrosch.com/TreeFlags/#/).
 * [Georgia Tech Graph Theory & Combinatorics Seminar](https://abernshteyn3.math.gatech.edu/gt_gt/), Georgia Tech, April 2023, **New lower bounds on crossing numbers of $K_{m,n}$.**\\[slides](https://slides.danielbrosch.com/CrossingGeorgiaTech/#/).
 * [Semidefinite optimization approaches to classical and quantum combinatorial optimization](https://www.mi.uni-koeln.de/opt/block-seminar-semidefinite-optimization-approaches-to-classical-and-quantum-combinatorial-optimization/), Cologne University, February 2023, **SDPs for Extremal Combinatorics.**\\[slides](https://slides.danielbrosch.com/SDPsForExtremalCombinatorics/#/).

@@ -1,11 +1,20 @@
 +++
 title = "Teaching"
 hascode = false
-date = Date(2021, 9, 21)
+date = Date(2024, 6, 13)
 +++
 @def tags = ["teaching"]
 
 # Teaching
+
+## Summer semester 2024:
+* Selected Topics in Optimization: Symmetries and Semidefinite Programming: [Lecture](https://campus.aau.at/studium/course/114138) and [exercises](https://campus.aau.at/studium/course/114139)
+
+## Winter semester 2023:
+* Algebraische Strukturen: [Lecture](https://campus.aau.at/studium/course/114084) and [exercises](https://campus.aau.at/studium/course/114085)
+* [Linear Algebra 1 (exercises)](https://campus.aau.at/studium/course/114088)
+* [Computermathematik für das Lehramt](https://campus.aau.at/studium/course/114192)
+* [Preparatory Course for Mathematics](https://campus.aau.at/studium/course/114191)
 
 ## Summer semester 2023:
 * [Übungen zu Lineare Algebra 2](https://campus.aau.at/studium/course/111538)

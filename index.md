@@ -1,7 +1,7 @@
 +++
 title = "About me"
 hascode = false
-date = Date(2023, 5, 20)
+date = Date(2024, 6, 13)
 +++
 @def tags = ["about", "cv"]
 
@@ -17,11 +17,15 @@ I study conic optimization for highly symmetric problems, investigating computat
 
 ## News
 
+New preprint: [Getting to the Root of the Problem: Sums of Squares for Infinite Trees](https://arxiv.org/abs/2404.12838).
+
+\\\\
+
 [My thesis is now available online!](/assets/pdfs/Thesis.pdf).
 ![](/assets/Cover.png)
 
 \\\\
-Check out my recent slides from [MAAG 2023](https://sites.google.com/view/maag-2023/home) on the [flag algebra of binary rooted trees](https://slides.danielbrosch.com/TreeFlags/).\\
+Check out my recent slides from [ISCO 2024](https://eventos.ull.es/isco-2024) on [Combinatoric Derivations and Sidorenko's Conjecture](https://slides.danielbrosch.com/CombDerivatives_LaLaguna/).\\
 
 ## Contact
 My office address is:\\

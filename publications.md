@@ -1,7 +1,7 @@
 +++
 title = "Publications"
 hascode = false
-date = Date(2022, 4, 19)
+date = Date(2024, 6, 13)
 +++
 @def tags = ["publications", "preprints"]
 
@@ -12,9 +12,10 @@ date = Date(2022, 4, 19)
 
 # Publications
 ## Preprints
-* **Daniel Brosch** and **Sven Polak**, [New lower bounds on crossing numbers of K(m,n) from permutation modules and semidefinite programming](https://arxiv.org/abs/2206.02755), arXiv, 2022.
+* **Daniel Brosch** and **Diane Puges**, [Getting to the Root of the Problem: Sums of Squares for Infinite Trees](https://arxiv.org/abs/2404.12838), 2024.
 
 ## Published
+* \biblabel{Crossing2023}{Brosch et al. (2023)} **Daniel Brosch** and **Sven Polak**, [New lower bounds on crossing numbers of K(m,n) from semidefinite programming](https://doi.org/10.1007/s10107-023-02028-1), Mathematical Programming, Series A.\\*[Mathematical Programming](https://doi.org/10.1007/s10107-023-02028-1), [arXiv](https://arxiv.org/abs/2206.02755)*.
 * \biblabel{Jordan2021}{Brosch et al. (2021)} **Daniel Brosch** and **Etienne de Klerk**, [Jordan symmetry reduction for conic optimization over the doubly nonnegative cone: theory and software](https://doi.org/10.1080/10556788.2021.2022146), Optimization Methods and Software 2021.\\*[Optimization Methods and Software](https://doi.org/10.1080/10556788.2021.2022146), [arXiv](https://arxiv.org/abs/2001.11348)*.
 * \biblabel{queue2021}{Brosch et al. (2021)} **Daniel Brosch**, **Monique Laurent** and **Andries Steenkamp**, [Optimizing Hypergraph-Based Polynomials Modeling Job-Occupancy in Queuing with Redundancy Scheduling](https://doi.org/10.1137/20M1369592), SIAM Journal on Optimization 2021.\\*[SIAM Journal on Optimization](https://doi.org/10.1137/20M1369592), [arXiv](https://arxiv.org/abs/2009.04510)*.
 * \biblabel{toric2020}{Brosch et al. (2020)} **Daniel Brosch** and **Etienne de Klerk**, [Minimum energy configurations on a toric lattice as a quadratic assignment problem](https://doi.org/10.1016/j.disopt.2020.100612), Discrete Optimization 2020.\\*[Discrete Optimization](https://doi.org/10.1016/j.disopt.2020.100612), [arXiv (extended results)](https://arxiv.org/abs/1908.00872)*.
@@ -30,8 +31,18 @@ date = Date(2022, 4, 19)
 
 # Talks
 ## Planned
-* [ÖMG Tagung 2023](https://oemg-tagung-2023.at/)
+* [ISMP 2024](https://ismp2024.gerad.ca/), Montreal, July 2024, **Flag Sums of Squares for Sidorenko's Conjecture.**
+
 ## Past
+* [Klagenfurt-Berlin workshop on multiple perspectives in optimization](https://www.aau.at/mpopt/events/klagenfurt-berlin-workshop-on-multiple-perspectives-in-optimization/), Klagenfurt, June 2024, **New lower bounds on crossing numbers of K(m,n).**\\[slides](https://slides.danielbrosch.com/CrossingTalkKlagenfurt/)
+* [ISCO 2024](https://eventos.ull.es/isco-2024), La Laguna, June 2024, **Flag Sums of Squares for Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_LaLaguna)
+* [MoPAT-24 – Moments and Polynomials: Applications and Theory](https://www.uni-konstanz.de/zukunftskolleg/community/mopat-conference/), Konstanz, March 2024, **Flag Sums of Squares for Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_Konstanz)
+* [Iowa State University](https://www.iastate.edu/), Ames, February 2024, **New lower bounds on crossing numbers of K(m,n).**\\[slides](https://slides.danielbrosch.com/CrossingTalkAmes/)
+* [GT Graph Theory/Combinatorics Seminar](https://abernshteyn3.math.gatech.edu/gt_gt/), Georgia Tech, Atlanta, February 2024, **Flag Sums of Squares for Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_GaTech)
+* [University of Iowa](https://uiowa.edu/), Iowa City, February 2024, **New lower bounds on crossing numbers of K(m,n).**\\[slides](https://slides.danielbrosch.com/CrossingTalkIowaCity/)
+* [Symmetry, Stability and interactions with Computation](https://conferences.cirm-math.fr/2892.html), CIRM, November 2023, **Flag Sums of Squares for Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_CIRM/#/)
+* [Klagenfurt Doctoral Seminar](https://www.aau.at/tewi/doktoratsprogramme/doktoratsprogramm-mao/doctoral-seminar/), Klagenfurt, November 2023, **Möbius Transform Based Bounds for Constant Weight Codes.**\\[slides](https://slides.danielbrosch.com/MoebiusCodesKlagenfurt) 
+* [ÖMG Tagung 2023](https://imsc.uni-graz.at/oemg-tagung-2023/index.html), Graz, September 2023, **Extremal Combinatorics in Julia.**\\[slides](https://slides.danielbrosch.com/FlagCodeTalk/#/) 
 * [Europt 2023](http://europt.hu/), Budapest, August 2023, **The flag algebra of rooted binary trees.**\\[slides](https://slides.danielbrosch.com/TreeFlagsEuropt23)
 * [Oberwolfach workshop: Mixed-integer Nonlinear Optimization: A Hatchery for Modern Mathematics](https://www.mfo.de/occasion/2333/www_view), Oberwolfach, August 2023, **Is the set of trees convex?**\\[slides](https://slides.danielbrosch.com/Oberwolfach2333)
 * [SIAM AG23](https://www.siam.org/conferences/cm/conference/ag23), Eindhoven, July 2023, **Möbius Transform Based Bounds for Constant Weight Codes.**\\[slides](https://slides.danielbrosch.com/MoebiusCodes) 
@@ -59,4 +70,4 @@ A more detailed CV is available [here](/assets/pdfs/CV.pdf).
 
 ---
 
-**Co-authors:** [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/), [Monique Laurent](https://homepages.cwi.nl/~monique/), [Sven Polak](https://sites.google.com/site/svenpolak/), [Andries Steenkamp](https://themathmerc.com/).
+**Co-authors:** [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/), [Monique Laurent](https://homepages.cwi.nl/~monique/), [Sven Polak](https://sites.google.com/site/svenpolak/), [Diane Puges](https://www.aau.at/en/team/puges-diane/), [Andries Steenkamp](https://themathmerc.com/).

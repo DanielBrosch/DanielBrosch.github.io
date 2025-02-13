@@ -6,6 +6,11 @@ date = Date(2024, 6, 13)
 @def tags = ["teaching"]
 
 # Teaching
+## Summer semester 2025:
+* Kombinatorische Strukturen: [Lecture](https://campus.aau.at/studium/course/118893) and [exercises](https://campus.aau.at/studium/course/118894)
+
+## Winter semester 2024:
+* Diskrete Mathematik: [Lecture](https://campus.aau.at/studium/course/119239) and exercises [group A](https://campus.aau.at/studium/course/119241), [group B](https://campus.aau.at/studium/course/119240)
 
 ## Summer semester 2024:
 * Selected Topics in Optimization: Symmetries and Semidefinite Programming: [Lecture](https://campus.aau.at/studium/course/114138) and [exercises](https://campus.aau.at/studium/course/114139)

@@ -33,7 +33,7 @@ date = Date(2024, 6, 13)
 <!-- ## Planned -->
 
 ## Past
-* [ISMP 2024](https://ismp2024.gerad.ca/), Montreal, July 2024, **Combinatoric Derivations and Sidorenko's Conjecture.**
+* [ISMP 2024](https://ismp2024.gerad.ca/), Montreal, July 2024, **Combinatoric Derivations and Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_Montreal/#/)
 * [Klagenfurt-Berlin workshop on multiple perspectives in optimization](https://www.aau.at/mpopt/events/klagenfurt-berlin-workshop-on-multiple-perspectives-in-optimization/), Klagenfurt, June 2024, **New lower bounds on crossing numbers of K(m,n).**\\[slides](https://slides.danielbrosch.com/CrossingTalkKlagenfurt/)
 * [ISCO 2024](https://eventos.ull.es/isco-2024), La Laguna, June 2024, **Flag Sums of Squares for Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_LaLaguna)
 * [MoPAT-24 – Moments and Polynomials: Applications and Theory](https://www.uni-konstanz.de/zukunftskolleg/community/mopat-conference/), Konstanz, March 2024, **Flag Sums of Squares for Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_Konstanz)

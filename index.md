@@ -25,7 +25,7 @@ New preprint: [Getting to the Root of the Problem: Sums of Squares for Infinite 
 ![](/assets/Cover.png)
 
 \\\\
-Check out my recent slides from [ISCO 2024](https://eventos.ull.es/isco-2024) on [Combinatoric Derivations and Sidorenko's Conjecture](https://slides.danielbrosch.com/CombDerivatives_LaLaguna/).\\
+Check out my recent slides from [ISMP 2024](https://ismp2024.gerad.ca/) on [Combinatoric Derivations and Sidorenko's Conjecture](https://slides.danielbrosch.com/CombDerivatives_Montreal/#/).\\
 
 ## Contact
 My office address is:\\

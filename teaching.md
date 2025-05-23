@@ -6,6 +6,9 @@ date = Date(2024, 6, 13)
 @def tags = ["teaching"]
 
 # Teaching
+## Supervision:
+* Johannes Schmucker, master's thesis, 2024-2025: *Symmetric Term Sparsity*
+
 ## Summer semester 2025:
 * Kombinatorische Strukturen: [Lecture](https://campus.aau.at/studium/course/118893) and [exercises](https://campus.aau.at/studium/course/118894)
 

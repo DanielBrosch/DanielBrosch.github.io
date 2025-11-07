@@ -7,7 +7,16 @@ date = Date(2024, 6, 13)
 
 # Teaching
 ## Supervision:
-* Johannes Schmucker, master's thesis, 2024-2025: *Symmetric Term Sparsity*
+### PhD students (co-supervision):
+* Johannes Schmucker, 2025-today, with Angelika Wiegele
+* Jan Schwiddessen, 2022-2025, with Angelika Wiegele
+
+### Master's theses:
+* Johannes Schmucker, master's thesis, 2024-2025: *Symmetric Term Sparsity* [PDF](https://netlibrary.aau.at/urn/urn:nbn:at:at-ubk:1-57834)
+
+## Winter semester 2025:
+* Diskrete Mathematik: [Lecture](https://campus.aau.at/studium/course/121728) and exercises [group A](https://campus.aau.at/studium/course/121731)
+* [Proseminar diskrete Mathematik](https://campus.aau.at/studium/course/124716)
 
 ## Summer semester 2025:
 * Kombinatorische Strukturen: [Lecture](https://campus.aau.at/studium/course/118893) and [exercises](https://campus.aau.at/studium/course/118894)

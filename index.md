@@ -17,20 +17,21 @@ I study conic optimization for highly symmetric problems, investigating computat
 
 ## News
 
-New preprint: [Getting to the Root of the Problem: Sums of Squares for Infinite Trees](https://arxiv.org/abs/2404.12838).
+New preprints: [The Augmented Mixing Method: Computing High-Accuracy Primal-Dual Solutions to Large-Scale SDPs via Column Updates](https://arxiv.org/abs/2507.20386), [Lower and Upper Bounds for Small Canonical and Ordered Ramsey Numbers](https://arxiv.org/abs/2511.04364).
+
+\\\\
+Check out my presentation from the [AIM workshop on Flag algebras and extremal combinatorics](https://aimath.org/pastworkshops/flagextremal.html) on [Derivatives of Flag Algebras](https://vimeo.com/showcase/flagextremal?video=1128065172).\\
 
 \\\\
 
 [My thesis is now available online!](/assets/pdfs/Thesis.pdf).
 ![](/assets/Cover.png)
 
-\\\\
-Check out my recent slides from [ISMP 2024](https://ismp2024.gerad.ca/) on [Combinatoric Derivations and Sidorenko's Conjecture](https://slides.danielbrosch.com/CombDerivatives_Montreal/#/).\\
 
 ## Contact
 My office address is:\\
 Universitätsstraße 65-67\\
 Institut für Mathematik\\
-Room N.2.26\\
+Room N.2.19\\
 9020 Klagenfurt am Wörthersee\\
 Austria\\

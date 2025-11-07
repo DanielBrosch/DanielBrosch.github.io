@@ -12,6 +12,8 @@ date = Date(2024, 6, 13)
 
 # Publications
 ## Preprints
+* **Daniel Brosch**, **Bernard Lidický**, **Sydney Miyasaki** and **Diane Puges**, [Lower and Upper Bounds for Small Canonical and Ordered Ramsey Numbers ](https://arxiv.org/abs/2511.04364), 2025.
+* **Daniel Brosch**, **Jan Schwiddessen** and **Angelika Wiegele**, [The Augmented Mixing Method: Computing High-Accuracy Primal-Dual Solutions to Large-Scale SDPs via Column Updates](https://arxiv.org/abs/2507.20386), 2025.
 * **Daniel Brosch** and **Diane Puges**, [Getting to the Root of the Problem: Sums of Squares for Infinite Trees](https://arxiv.org/abs/2404.12838), 2024.
 
 ## Published
@@ -32,7 +34,12 @@ date = Date(2024, 6, 13)
 # Talks
 <!-- ## Planned -->
 
-## Past
+* [Flag algebras and extremal combinatorics](https://aimath.org/pastworkshops/flagextremal.html), Pasadena, October 2025, **Derivatives of Flag Algebras.**\\[recording](https://vimeo.com/showcase/flagextremal?video=1128065172)
+* [EUCCO 2025](https://conference3.aau.at/event/122/), Klagenfurt, September 2025, **Optimality Conditions for Extremal Combinatorics.**\\[slides](https://slides.danielbrosch.com/OptimalityConditions_EUCCO)
+* [ICCOPT 2025](https://sites.google.com/view/iccopt2025/home), Los Angeles, July 2025, **Optimality Conditions for Extremal Combinatorics.**\\[slides](https://slides.danielbrosch.com/OptimalityConditions_ICCOPT)
+* [Semidefinite programming: applications & solution methods](https://www.lorentzcenter.nl/semidefinite-programming-applications-en-solution-methods.html), Leiden, July 2025, **Optimality Conditions for Extremal Combinatorics.**\\[slides](https://slides.danielbrosch.com/OptimalityConditions_Leiden)
+* UiT Algebra Seminar, Tromsø, June 2025, **Combinatoric Derivations and Sidorenko’s Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_Tromso)
+* [KoKoKo 2025](https://unigrazmath.github.io/kokoko/), Graz, March 2025, **Combinatoric Derivations and Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_Graz)
 * [ISMP 2024](https://ismp2024.gerad.ca/), Montreal, July 2024, **Combinatoric Derivations and Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_Montreal/#/)
 * [Klagenfurt-Berlin workshop on multiple perspectives in optimization](https://www.aau.at/mpopt/events/klagenfurt-berlin-workshop-on-multiple-perspectives-in-optimization/), Klagenfurt, June 2024, **New lower bounds on crossing numbers of K(m,n).**\\[slides](https://slides.danielbrosch.com/CrossingTalkKlagenfurt/)
 * [ISCO 2024](https://eventos.ull.es/isco-2024), La Laguna, June 2024, **Flag Sums of Squares for Sidorenko's Conjecture.**\\[slides](https://slides.danielbrosch.com/CombDerivatives_LaLaguna)
@@ -70,4 +77,15 @@ A more detailed CV is available [here](/assets/pdfs/CV.pdf).
 
 ---
 
-**Co-authors:** [Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/), [Monique Laurent](https://homepages.cwi.nl/~monique/), [Sven Polak](https://sites.google.com/site/svenpolak/), [Diane Puges](https://www.aau.at/en/team/puges-diane/), [Andries Steenkamp](https://themathmerc.com/).
+**Co-authors:** 
+[Andrei Asinowski](https://me.aau.at/~anasinowski/),
+[Etienne de Klerk](https://sites.google.com/site/homepageetiennedeklerk/),
+[Monique Laurent](https://homepages.cwi.nl/~monique/), 
+[Bernard Lidický](https://lidicky.name/),
+[Sydney Miyasaki](https://math.iastate.edu/profiles/sydney-miyasaki/),
+[Sven Polak](https://sites.google.com/site/svenpolak/),
+[Diane Puges](https://www.aau.at/en/team/puges-diane/),
+[Jan Schwiddessen](https://jan-schwiddessen.com/),
+[Sarah Selkirk](https://www.math.aau.at/selkirk/),
+[Andries Steenkamp](https://themathmerc.com/),
+[Angelika Wiegele](https://me.aau.at/~anwiegel/).

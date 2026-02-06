@@ -14,10 +14,10 @@ date = Date(2024, 6, 13)
 ## Preprints
 * **Daniel Brosch**, **Bernard Lidický**, **Sydney Miyasaki** and **Diane Puges**, [Lower and Upper Bounds for Small Canonical and Ordered Ramsey Numbers ](https://arxiv.org/abs/2511.04364), 2025.
 * **Daniel Brosch**, **Jan Schwiddessen** and **Angelika Wiegele**, [The Augmented Mixing Method: Computing High-Accuracy Primal-Dual Solutions to Large-Scale SDPs via Column Updates](https://arxiv.org/abs/2507.20386), 2025.
-* **Daniel Brosch** and **Diane Puges**, [Getting to the Root of the Problem: Sums of Squares for Infinite Trees](https://arxiv.org/abs/2404.12838), 2024.
 
 ## Published
-* \biblabel{Crossing2023}{Brosch et al. (2023)} **Daniel Brosch** and **Sven Polak**, [New lower bounds on crossing numbers of K(m,n) from semidefinite programming](https://doi.org/10.1007/s10107-023-02028-1), Mathematical Programming, Series A.\\*[Mathematical Programming](https://doi.org/10.1007/s10107-023-02028-1), [arXiv](https://arxiv.org/abs/2206.02755)*.
+* \biblabel{Trees2025}{Brosch et al. (2025)} **Daniel Brosch** and **Diane Puges**, [Getting to the Root of the Problem: Sums of Squares for Limits of Trees](https://doi.org/10.1007/s10107-025-02305-1), Mathematical Programming, Series B, 2025.\\*[Mathematical Programming](https://doi.org/10.1007/s10107-025-02305-1), [arXiv](https://arxiv.org/abs/2404.12838)*.
+* \biblabel{Crossing2023}{Brosch et al. (2023)} **Daniel Brosch** and **Sven Polak**, [New lower bounds on crossing numbers of K(m,n) from semidefinite programming](https://doi.org/10.1007/s10107-023-02028-1), Mathematical Programming, Series A, 2024.\\*[Mathematical Programming](https://doi.org/10.1007/s10107-023-02028-1), [arXiv](https://arxiv.org/abs/2206.02755)*.
 * \biblabel{Jordan2021}{Brosch et al. (2021)} **Daniel Brosch** and **Etienne de Klerk**, [Jordan symmetry reduction for conic optimization over the doubly nonnegative cone: theory and software](https://doi.org/10.1080/10556788.2021.2022146), Optimization Methods and Software 2021.\\*[Optimization Methods and Software](https://doi.org/10.1080/10556788.2021.2022146), [arXiv](https://arxiv.org/abs/2001.11348)*.
 * \biblabel{queue2021}{Brosch et al. (2021)} **Daniel Brosch**, **Monique Laurent** and **Andries Steenkamp**, [Optimizing Hypergraph-Based Polynomials Modeling Job-Occupancy in Queuing with Redundancy Scheduling](https://doi.org/10.1137/20M1369592), SIAM Journal on Optimization 2021.\\*[SIAM Journal on Optimization](https://doi.org/10.1137/20M1369592), [arXiv](https://arxiv.org/abs/2009.04510)*.
 * \biblabel{toric2020}{Brosch et al. (2020)} **Daniel Brosch** and **Etienne de Klerk**, [Minimum energy configurations on a toric lattice as a quadratic assignment problem](https://doi.org/10.1016/j.disopt.2020.100612), Discrete Optimization 2020.\\*[Discrete Optimization](https://doi.org/10.1016/j.disopt.2020.100612), [arXiv (extended results)](https://arxiv.org/abs/1908.00872)*.
@@ -33,7 +33,7 @@ date = Date(2024, 6, 13)
 
 # Talks
 <!-- ## Planned -->
-
+* [Combinatorial Optimization Workshop](https://conference3.aau.at/event/142/), Aussois, January 2026, **Getting to the Root of the Problem: Sums of Squares for Limits of Trees.**\\[slides](https://slides.danielbrosch.com/TreesAussois)
 * [Flag algebras and extremal combinatorics](https://aimath.org/pastworkshops/flagextremal.html), Pasadena, October 2025, **Derivatives of Flag Algebras.**\\[recording](https://vimeo.com/showcase/flagextremal?video=1128065172)
 * [EUCCO 2025](https://conference3.aau.at/event/122/), Klagenfurt, September 2025, **Optimality Conditions for Extremal Combinatorics.**\\[slides](https://slides.danielbrosch.com/OptimalityConditions_EUCCO)
 * [ICCOPT 2025](https://sites.google.com/view/iccopt2025/home), Los Angeles, July 2025, **Optimality Conditions for Extremal Combinatorics.**\\[slides](https://slides.danielbrosch.com/OptimalityConditions_ICCOPT)

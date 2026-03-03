@@ -12,10 +12,15 @@ I am an assistant professor (non tenure track) at the University of Klagenfurt, 
 ## Research interests
 I study conic optimization for highly symmetric problems, investigating computational and analytical ways to exploit symmetries. In particular, I am interested in
 * Semidefinite and polynomial optimization,
+* Computer assisted proofs based on conic optimization,
 * Flag algebras and
 * Energy minimization.
 
 ## News
+
+I was granted an [MSCA-Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)! I will be joining [Cordian Riener](https://www.cordian.de/) in Tromsø soon.
+
+\\\\
 
 New preprints: [The Augmented Mixing Method: Computing High-Accuracy Primal-Dual Solutions to Large-Scale SDPs via Column Updates](https://arxiv.org/abs/2507.20386), [Lower and Upper Bounds for Small Canonical and Ordered Ramsey Numbers](https://arxiv.org/abs/2511.04364).
 
